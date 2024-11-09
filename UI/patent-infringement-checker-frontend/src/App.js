@@ -15,7 +15,7 @@ function App() {
     setResults(null);
 
     try {
-      const response = await axios.post("http://127.0.0.1:5000/api/analyze", {
+      const response = await axios.post("http://localhost:5000/api/analyze", {
         patent_id: patentId,
         company_name: companyName,
       });
