@@ -85,7 +85,7 @@ If you received a zipped Docker image file, follow these steps to load and run t
 
 ## Run the UI 
 1. Go into the UI folder, and then into the patent infringement checker front end folder
-2. Use ```bash npm start``` to run the UI 
+2. Use ```npm start``` to run the UI 
 
 
 
