@@ -83,6 +83,10 @@ If you received a zipped Docker image file, follow these steps to load and run t
     ```
 3. Access the app at http://localhost:5000.
 
+## Run the UI 
+1. Go into the UI folder, and then into the patent infringement checker front end folder
+2. Use ```bash npm start``` to run the UI 
+
 
 
 
